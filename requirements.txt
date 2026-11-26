@@ -1,0 +1,6 @@
+numpy
+opencv-python
+torch
+# optional: pretrained lung segmentation
+# torchxrayvision
+pytest
